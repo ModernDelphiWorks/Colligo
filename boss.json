@@ -1,13 +1,12 @@
 {
-  "name": "Colligo",
-  "description": "A powerful and intuitive framework for fluent-style data manipulation in Delphi",
-  "version": "^0",
-  "homepage": "https://github.com/ModernDelphiWorks/Colligo",
-  "mainsrc": "Source/",
-  "projects": [],
-  "dependencies": {
-    "github.com/moderndelphiworks/cquery4d": "^0",
-    "github.com/ModernDelphiWorks/DataEngine": "^0",
-    "github.com/moderndelphiworks/evolution4d": "^0"
-  }
+	"name": "Colligo",
+	"description": "A powerful and intuitive framework for fluent-style data manipulation in Delphi",
+	"version": "0.4.0",
+	"homepage": "https://github.com/ModernDelphiWorks/Colligo",
+	"mainsrc": "Source/",
+	"projects": [],
+	"dependencies": {
+		"github.com/ModernDelphiWorks/DataEngine": "^1.2.0",
+		"github.com/ModernDelphiWorks/FluentSQL": "^1.6.0"
+	}
 }

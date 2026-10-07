@@ -1,5 +1,22 @@
 {
 	"hash": "d41d8cd98f00b204e9800998ecf8427e",
 	"updated": "2025-04-25T14:28:24.4939435-03:00",
-	"installedModules": {}
+	"installedModules": {
+		"github.com/moderndelphiworks/dataengine": {
+			"name": "DataEngine",
+			"version": "v1.2.0",
+			"hash": "fdbce99c62ee9cafef3fd7f5b52d1f1a",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/moderndelphiworks/fluentsql": {
+			"name": "FluentSQL",
+			"version": "v1.6.0",
+			"hash": "68b7f9450dbd0ad72e8b7d0447e9c73c",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
 }

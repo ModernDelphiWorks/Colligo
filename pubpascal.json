@@ -6,8 +6,7 @@
   "sources": ["Source/"],
   "platforms": ["Win32", "Win64"],
   "dependencies": {
-    "moderndelphiworks/cquery4d": "^0",
-    "ModernDelphiWorks/DataEngine": "^0",
-    "moderndelphiworks/evolution4d": "^0"
+    "ModernDelphiWorks/FluentSQL": "^1.6.0",
+    "ModernDelphiWorks/DataEngine": "^1.2.0"
   }
 }
